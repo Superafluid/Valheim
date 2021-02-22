@@ -1,0 +1,4868 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.20f1 (6dd1c08eedfa)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   26.21.14.4587
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.093 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.563600 ms
+02/21/2021 22:31:23: Starting to load scene:start
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't create a Convex Mesh from source mesh "RearBig" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2b9c -> priority: 1 
+  Thread -> id: 356c -> priority: 1 
+UnloadTime: 3.809100 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu). 
+(Filename:  Line: 509)
+
+02/21/2021 22:31:31: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:31: Using mountain distance: 1000
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:31: Render threading mode:MultiThreaded
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:31: Using environment steamid 892970
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:31: Using steam APPID:892970
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:31: Steam initialized, persona:Superfluid
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:31: Missing audio clip in music respawn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:31: Checking for installed DLCs
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:31: DLC:beta installed:False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:31: Builder started
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:32: Loaded localization English
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:32: Loaded localization English
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:32: ARG 0 C:\Program Files (x86)\Steam\steamapps\common\Valheim\valheim.exe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:32: loading alva romeo
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:32: Data size:4198878  hash size:64
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:32: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 87380.
+Total: 47.798800 ms (FindLiveObjects: 2.902200 ms CreateObjectMapping: 7.448000 ms MarkObjects: 37.196900 ms  DeleteObjects: 0.251200 ms)
+
+02/21/2021 22:31:34: UI Group status changed Menu = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:37: show character selection
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:31:42: OnCharacterStart
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.892200 ms
+02/21/2021 22:32:02: Loading player profile alva romeo
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:02: Data size:4198878  hash size:64
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:02: Zonesystem Awake 899
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:02: DungeonDB Awake 899
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:02: Steam initialized, persona:Superfluid
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:02: ZSteamSocket  Registering global callbacks
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:02: Registering lobby
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:02: Initializing world generator seed:zE28dE7RmH ( 1971007030 )   menu:False  worldgen version:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:02: Using mountain distance: 1000
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:02: Found 539 mountain points
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:02: Remaining mountains:67
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:02: Calc time 17.9517 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:02: Found 8110 lake points
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:04: Remaining lakes:115
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:04: Calc time 1745.8513 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:04: Rivers:162
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:04: River buckets 15809
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:04: River render time 260.3044 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:04: River Calc time 272.2718 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:05: River buckets 24440
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:05: River render time 381.4867 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:05: Placed 1910 streams
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:05: Stream Calc time 900.6046 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:05: Load world Fabrikhalla
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:05: Loading 87092 zdos , my id 2233263422 data version:26
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:05: Loaded 48775 dead zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:05: Removed 0 OLD generated ZDOS
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:05: Loaded 7141 locations
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:05: Audioman already exist, destroying self
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:05: Checking for installed DLCs
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:05: DLC:beta installed:False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 494 unused Assets to reduce memory usage. Loaded Objects now: 86954.
+Total: 91.765700 ms (FindLiveObjects: 2.925100 ms CreateObjectMapping: 8.562200 ms MarkObjects: 76.288100 ms  DeleteObjects: 3.989700 ms)
+
+02/21/2021 22:32:08: Zonesystem Start 899
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:08: DungeonDB Start 899
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:09: Starting respawn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:09: Lobby was created k_EResultOK  109775241021248134  error:False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:09: Got requested lobby data
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:17: tip:$loadscreen_tip05
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:17: Got requested lobby data
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:18: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:18: Dungeon loaded 36
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:18: Dungeon load time 26.9281 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:20: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:20: Dungeon loaded 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:20: Dungeon load time 21.9407 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:26: Spawned after 8.019994
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:26: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:26: Minimap: Adding unique location (-3.6, 45.8, 5.3)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:28: Resumed music blackforest at 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:36: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:36: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:36: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:41: Got session request from 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:46: Got handshake from client 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:46: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:32:46: Server: New peer connected,sending global keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:33:07: Got character ZDOID from Amgar Ragenthor : 2764965097:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:33:33: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:33:33: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:33:33: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:33:33: Got session request from 76561198027757928
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:33:37: Got handshake from client 76561198027757928
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:33:38: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:33:38: Server: New peer connected,sending global keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:33:42: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:33:42: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:33:42: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:34:01: Got character ZDOID from Ampark Plaz : -343557047:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:35:04: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:35:04: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:35:04: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:35:57: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:35:57: Dungeon loaded 26
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:35:57: Dungeon load time 12.9653 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:36:25: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:36:25: Dungeon loaded 16
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:36:25: Dungeon load time 8.9759 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:36:25: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:36:25: Dungeon loaded 35
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:36:25: Dungeon load time 16.9571 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:36:39: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:36:39: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:36:39: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:36:52: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:36:52: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:36:52: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:08: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:08: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:08: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:16: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:16: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:16:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:20: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:20: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:20:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:20: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:20: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:28: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:28: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:28: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:45: Player 2764965097 wants to pickup Resin(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:51: Player 2764965097 wants to pickup Resin(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:51: Player 2764965097 wants to pickup Resin(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:51: Right back item AxeFlint
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:51: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:52: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:52: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:37:58: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:00: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:07: Placed locations in zone -17,-5  duration 2.9921 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:14: Placed piece_chest_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:18: Player 2233263422 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:18: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:18: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:18: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:21: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:23: Added to stack18 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:23: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:26: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:36: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:37: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:37:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40: Player 2764965097 wants to pickup Stone(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40: Player 2764965097 wants to pickup Dandelion(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40: Player 2764965097 wants to pickup Stone(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:40: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:41: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:41: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:42: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:42:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:42: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:42: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:42: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:48: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:49: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:53: Added to stack14 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:53: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:38:56: Player 2764965097 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:04: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:04: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:04: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:08: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:08: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:08: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:11: Added to stack5 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:11: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:14: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:15: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:17: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:19: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:21: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:25: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:27: Added to stack26 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:27: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:40: Player 2233263422 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:40: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:40: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:40: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:42: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:43: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:45: Right back item AxeFlint
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:45: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:45: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:45: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:47: Setting selected recipe 5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:49: Setting selected recipe 5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:57: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:57: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:39:57: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:40:11: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:40:11: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:40:11: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:40:43: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:40:43: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:40:43: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:40:45: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:40:45: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:40:45: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:40:59: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:41:42: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:41:42: Dungeon loaded 36
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:41:42: Dungeon load time 23.937 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:42:05: Player 2764965097 wants to pickup AncientSeed(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:42:06: Queue unlock msg:$msg_newmaterial:$item_ancientseed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:42:16: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:42:16: Dungeon loaded 26
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:42:16: Dungeon load time 12.9653 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1273 unused Assets to reduce memory usage. Loaded Objects now: 1289957.
+Total: 414.025500 ms (FindLiveObjects: 84.334800 ms CreateObjectMapping: 22.230000 ms MarkObjects: 304.994500 ms  DeleteObjects: 2.465700 ms)
+
+02/21/2021 22:42:32: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:42:32: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:42:32: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:42:36: Spawned Greydwarf x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:00: Player -343557047 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:29: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:29: Dungeon loaded 16
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:29: Dungeon load time 11.9687 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:29: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:29: Dungeon loaded 35
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:29: Dungeon load time 16.9545 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:42: Setting forced environment Crypt
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:43: Stoped music blackforest at 2669195
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:44: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:51: Player -343557047 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:51: Player -343557047 wants to pickup TrophySkeleton(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:51: Player 2764965097 wants to pickup TrophySkeleton(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:51:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:51: Player 2764965097 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:51:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:52: Player 2764965097 wants to pickup TrophySkeleton(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:43:52: Player 2764965097 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:01: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:02: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:02: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:02: Queue unlock msg:$msg_newitem:$item_mushroomyellow
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:07: Got session request from 76561198055866657
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:12: Got handshake from client 76561198055866657
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:13: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:13: Server: New peer connected,sending global keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:15: Player 2764965097 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:15: Player 2764965097 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:15:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:16: Player 2764965097 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:18: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:22: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:25: Player 2764965097 wants to pickup SurtlingCore(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:25: Player 2764965097 wants to pickup SurtlingCore(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:25: Player 2764965097 wants to pickup SurtlingCore(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:25: Queue unlock msg:$msg_newmaterial:$item_surtlingcore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:25: Queue unlock msg:$msg_newpiece:$piece_smelter
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:25: Queue unlock msg:$msg_newpiece:$piece_charcoalkiln
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:29: Got character ZDOID from Sandyskink : 545358345:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:33: Got session request from 76561197993568986
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:38: Got handshake from client 76561197993568986
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:38: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:38: Server: New peer connected,sending global keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:54: Got character ZDOID from Greta : 2468155065:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:56: Player 2764965097 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:57: Player -343557047 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:57: Player -343557047 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:57:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:58: Player -343557047 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:58: Player -343557047 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:58:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:59: Player -343557047 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:59: RPC_Disconnect 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:59: Destroying abandoned non persistent zdo 2468155065:1 owner 2468155065
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:59: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:59: Closing socket 76561197993568986
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:59:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:59:   P2P state, bytes in send queue:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:59: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:44:59: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:02: Player -343557047 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:03: Player -343557047 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:03:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:03: Player -343557047 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:06: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:07: Got session request from 76561197973547508
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:07: Player -343557047 wants to pickup SurtlingCore(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:09: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:10: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:10:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:10: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:10: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:10: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:10:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:10: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:11: Player 2764965097 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:11: Player 2764965097 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:12: Got handshake from client 76561197973547508
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:12: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:12: Server: New peer connected,sending global keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:14: Queue unlock msg:$msg_newmaterial:$item_ruby
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:14: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:23: Got session request from 76561197993568986
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:25: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:28: Got handshake from client 76561197993568986
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:28: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:28: Server: New peer connected,sending global keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:29: Got character ZDOID from Oskari : 2405578914:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:34: Player -343557047 wants to pickup SurtlingCore(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:34: Player 2764965097 wants to pickup SurtlingCore(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:34:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:35: Player 2764965097 wants to open TreasureChest_forestcrypt(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:36: Player 2764965097 wants to pickup SurtlingCore(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:36: Player 2764965097 wants to pickup SurtlingCore(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:36:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:42: Queue unlock msg:$msg_newmaterial:$item_amber
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:49: Got character ZDOID from Greta : 2594847732:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:56: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:56: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:45:56: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:03: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:12: Player 2764965097 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:12: Player -343557047 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:12:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:13: Player -343557047 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:14: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:14: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:14: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:15: Player 2764965097 wants to pickup BoneFragments(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:29: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:29: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:29: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:39: Player 2764965097 wants to open TreasureChest_forestcrypt(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:58: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:58: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:46:58: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:47:00: Queue unlock msg:$msg_newitem:$item_honey
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:47:01: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:47:01: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:47:01: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:47:08: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:47:08: Player -343557047 wants to pickup MushroomYellow(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:47:51: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:47:51: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:47:51: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:47:53: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:48:20: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:48:21: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:48:22: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:48:22: Player 2764965097 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:48:54: Setting forced environment 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:48:56: Stoped music forestcrypt at 2152936
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:48:56: Resumed music blackforest at 2669195
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:48:58: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:48:58: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:48:58: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:00: Drop item $item_surtlingcore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:00: drop all 2  2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:00: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:00: Player -343557047 wants to pickup SurtlingCore(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:05: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:05: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:05: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:41: Placed locations in zone -19,0  duration 1.9947 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:41: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:41: Dungeon loaded 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:41: Dungeon load time 0 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:41: Available rooms:18
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:41: To place:40
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:41: Connections 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:41: All required rooms have been placed, stopping generation
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:41: placed 10 doors
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:41: Placed 35 rooms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:41: Placed locations in zone -19,1  duration 45.8767 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:52: Stoped music blackforest at 5119038
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:54: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:54: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:54: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:56: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:57: Spawned Greydwarf x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:57: Spawned Greydwarf x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:57: Spawned Greydwarf_Shaman x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:57: Spawned Greydwarf_Shaman x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:57: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:57: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:49:57: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:05: Placed locations in zone -19,5  duration 35.9044 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:11: Placed locations in zone -20,-3  duration 1.9944 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:11: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:11: Dungeon loaded 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:11: Dungeon load time 0 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:11: Available rooms:18
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:11: To place:40
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:11: Connections 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:11: placed 4 doors
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:11: Placed 22 rooms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:11: Placed locations in zone -20,-2  duration 23.9367 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:11: Placed locations in zone -20,1  duration 2.9932 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:11: Placed locations in zone -20,3  duration 0.9974 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:14: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:14: Dungeon loaded 16
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:14: Dungeon load time 10.9707 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:15: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:15: Dungeon loaded 35
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:15: Dungeon load time 19.9467 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:25: Placed locations in zone -20,6  duration 1.9953 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:26: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:27: Dungeon loaded 11
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:27: Dungeon load time 95.2513 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:29: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:29: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:29: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:29: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:29: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:29: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:29: Im finally the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:35: Placed locations in zone -21,-2  duration 30.9172 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:35: Placed locations in zone -21,-1  duration 0.9973 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:35: Placed locations in zone -21,0  duration 0.9973 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:38: Resumed music blackforest at 5119038
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:51: Placed locations in zone -22,-1  duration 2.9921 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:51: Placed locations in zone -22,1  duration 0.9974 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:53: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:53: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:50:53: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:51:24: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:51:24: Dungeon loaded 16
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:51:24: Dungeon load time 9.9731 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:51:24: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:51:24: Dungeon loaded 35
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:51:24: Dungeon load time 18.951 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:51:37: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:51:37: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:51:37: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:51:43: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:51:43: Dungeon loaded 36
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:51:43: Dungeon load time 21.9424 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:01: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:18: clone 100
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+02/21/2021 22:52:18: Saved 94053 zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 743 unused Assets to reduce memory usage. Loaded Objects now: 1335037.
+Total: 445.553200 ms (FindLiveObjects: 100.592800 ms CreateObjectMapping: 22.433600 ms MarkObjects: 320.608300 ms  DeleteObjects: 1.917100 ms)
+
+02/21/2021 22:52:18: World saved ( 593.9231ms )
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:22: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:22: Dungeon loaded 38
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:22: Dungeon load time 22.9386 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:22: Placed locations in zone -20,-4  duration 0.9971 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:38: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:38: Dungeon loaded 35
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:38: Dungeon load time 20.9447 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:46: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:46: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:46: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:47: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:47: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:52:47: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:03: Setting forced environment Crypt
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:05: Stoped music blackforest at 2554779
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:05: Resumed music forestcrypt at 2152936
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:17: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:17: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:17: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:19: Added to stack3 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:19: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:21: Player 2764965097 wants to open TreasureChest_forestcrypt(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:21:   in use
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:21: Added to stack8 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:21: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:25: Queue unlock msg:$msg_newmaterial:$item_amberpearl
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:34: Player 2764965097 wants to pickup Resin(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:36: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:36: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:36: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:38: Added to stack64 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:38: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:40: Added to stack18 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:40: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:42: Added to stack4 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:42: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:46: Item is not in this container
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:53:46: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:54:17: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:54:21: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:54:21: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:54:21: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:54:41: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:11: Placed locations in zone -15,-6  duration 2.9923 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:11: Placed locations in zone -14,-6  duration 1.9946 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:11: Placed locations in zone -11,-6  duration 0 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:25: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:28: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:28: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:28: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:33: Drop item $item_arrow_flint
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:33: drop all 9  9
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:33: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:33: Queue unlock msg:$msg_newtrophy:$item_trophy_skeleton
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:48: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:48: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:48: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:52: Drop item $item_beechseeds
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:52: drop all 1  1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:52: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:55:59: Placed locations in zone -12,-7  duration 34.9066 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:28: Player 2233263422 wants to open TreasureChest_forestcrypt(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:28: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:28: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:28: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:30: Added to stack91 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:30: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:33: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:35: Item is not in this container
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:35: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:38: Player 2233263422 wants to open TreasureChest_forestcrypt(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:38: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:38: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:38: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:56:57: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:57:19: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:57:19: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:57:19: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:57:32: Setting forced environment 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:57:34: Stoped music forestcrypt at 2356148
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:57:34: Resumed music blackforest at 2554779
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:57:45: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:57:50: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:57:50: Dungeon loaded 22
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:57:50: Dungeon load time 16.9546 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:14: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:14: Dungeon loaded 16
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:14: Dungeon load time 10.9702 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:15: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:18: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:18: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:18: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:40: Placed locations in zone -17,-6  duration 34.9063 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:42: Spawned Greydwarf_Shaman x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:42: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:46: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:46: Dungeon loaded 26
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:46: Dungeon load time 13.9624 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:48: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:58:53: Stoped music blackforest at 6071489
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:59:01: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:59:01: Dungeon loaded 35
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:59:01: Dungeon load time 19.9418 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:59:27: Resumed music blackforest at 6071489
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:59:29: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:59:29: Dungeon loaded 11
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:59:29: Dungeon load time 96.2502 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 22:59:32: Spawned Greydwarf x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:00:22: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:00:22: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:00:22: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:00:27: Left click
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:00:52: Spawned Seagal x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:00:55: Stoped music blackforest at 878635
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:01:34: Spawned Fish3 x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:01:48: Force generaeting hmap (-192.0, 0.0, -256.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:01:50: Spawned Deer x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:02:04: Spawned Deer x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1442 unused Assets to reduce memory usage. Loaded Objects now: 1294374.
+Total: 414.308100 ms (FindLiveObjects: 84.336800 ms CreateObjectMapping: 22.279400 ms MarkObjects: 305.111900 ms  DeleteObjects: 2.579600 ms)
+
+02/21/2021 23:02:46: Force generaeting hmap (64.0, 0.0, -128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:04: Done fading color
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26: Got connection failed callback: 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26: Closing socket 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26:   P2P state, bytes in send queue:3220
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26: Destroying abandoned non persistent zdo 2764965097:3210 owner 2764965097
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26: Destroying abandoned non persistent zdo 2764965097:1 owner 2764965097
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26: Destroying abandoned non persistent zdo 2764965097:3425 owner 2764965097
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26: Destroying abandoned non persistent zdo 2764965097:3474 owner 2764965097
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26: Destroying abandoned non persistent zdo 2764965097:3612 owner 2764965097
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:26: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:30: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:37: Player 2405578914 wants to pickup DeerHide(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:37: Player 2405578914 wants to pickup DeerHide(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:37: Player 2405578914 wants to pickup RawMeat(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:37: Player 2405578914 wants to pickup RawMeat(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:38: Player 2405578914 wants to pickup RawMeat(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:38: Player 2405578914 wants to pickup RawMeat(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:38: Player 2405578914 wants to pickup RawMeat(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:38:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:38: Player 2405578914 wants to pickup RawMeat(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:38:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:38: Player 2405578914 wants to pickup RawMeat(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:38:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:38: Player 2405578914 wants to pickup RawMeat(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:38:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:38: Player 2405578914 wants to pickup RawMeat(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:38:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:40: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:40: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:40: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:42: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:42: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:03:42: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:04: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:04: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:04: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:10: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:10: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:10: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:20: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:20: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:20: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:21: Drop item $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:21: drop all 50  50
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:21: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:04:51: Player 545358345 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:00: Got session request from 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:04: Got handshake from client 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:04: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:04: Server: New peer connected,sending global keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:12: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:12: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:12: Im finally the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:21: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:21: Im finally the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:27: Got character ZDOID from Amgar Ragenthor : 941565259:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:50: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:50: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:51: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:05:51: Im finally the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:03: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:03: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:03: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:09: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:09: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:09: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:14: Drop item $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:14: drop all 50  50
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:14: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:14: Player 545358345 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:18: Queue unlock msg:$msg_newmaterial:$item_finewood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:18: Queue unlock msg:$msg_newrecipe:$item_tankard
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:18: Queue unlock msg:$msg_newpiece:$piece_wooddragon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:18: Queue unlock msg:$msg_newpiece:$piece_stool
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:18: Queue unlock msg:$msg_newpiece:$piece_chair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:18: Queue unlock msg:$msg_newpiece:$piece_bench01
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:18: Queue unlock msg:$msg_newpiece:$piece_table
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:18: Queue unlock msg:$msg_newpiece:$piece_portal
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:18: Queue unlock msg:$msg_newpiece:$piece_guardstone
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:18: Queue unlock msg:$msg_newpiece:$piece_banner01
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:18: Queue unlock msg:$msg_newpiece:$piece_banner02
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:18: Queue unlock msg:$msg_newpiece:$piece_banner03
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:22: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:22: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:22: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:34: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:34: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:34: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:35: Player 545358345 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:45: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:46: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:46: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:46: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:46: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:46:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:46: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:50: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:50: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:50: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:50: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:50:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:50: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:50:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:50: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:50: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:50: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:50: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:51: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:51: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:51: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:51: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:51:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:51: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:51:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:51: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:51:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:52: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:52:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:52: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:52:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:52: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:52:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:52: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:52:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:52: Player 2594847732 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:06:52:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:00: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:00: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:00: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:10: Player 2233263422 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:10: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:10: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:10: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:15: Player 2233263422 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:15: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:15: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:15: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:21: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:27: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:28: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:34: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:37: Added to stack6 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:37: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:43: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:43: Im finally the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:44: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:44: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:44: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:57: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:57: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:57: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:59: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:59: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:07:59: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:01: Player -343557047 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:01: Drop item $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:01: drop all 50  50
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:01: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:06: Force generaeting hmap (64.0, 0.0, -128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:06: Force generaeting hmap (128.0, 0.0, -128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:21: Player 2594847732 wants to pickup Resin(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:33: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:33: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:33: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:37: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:37: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:37: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:50: Player 941565259 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:50: Setting selected recipe 20
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:50: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:50: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:50: Player 941565259 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:50:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:08:58: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:02: Player 2405578914 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:02: Player 2405578914 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:02: Player 2405578914 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:02:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:02: Player 2405578914 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:02:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:03: Player 2405578914 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:03:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:03: Player 2405578914 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:03:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:03: Player 2405578914 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:03:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:03: Player 2405578914 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:03:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:03: Player 2405578914 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:03:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:14: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:14: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:14: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:18: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:19: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:21: Setting selected recipe 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:26: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:26: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:26: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:09:38: Player 2405578914 wants to pickup Wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:10:03: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:10:03: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:10:03: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:10:10: Spawned Deer x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:10:10: Spawned Boar x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:10:46: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:10:46: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:10:46: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:11:16: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:11:28: Spawned Deer x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:11:34: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:11:35: Dungeon loaded 10
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:11:35: Dungeon load time 42.8848 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:12:18: clone 94
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1385 unused Assets to reduce memory usage. Loaded Objects now: 1329247.
+Total: 486.269600 ms (FindLiveObjects: 93.588300 ms CreateObjectMapping: 25.386100 ms MarkObjects: 362.557400 ms  DeleteObjects: 4.737100 ms)
+
+02/21/2021 23:12:19: Saved 97937 zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:12:19: World saved ( 716.1099ms )
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:12:41: Spawned Deer x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:12:41: Spawned Boar x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:12:41: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:13:02: Spawned Neck x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:13:02: Spawned Neck x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:13:02: Spawned Neck x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:13:02: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:13:13: Show text :Long ages past, when the Allfather Odin united the worlds, he threw down the Vanir, the giants and those creatures older than any others. The greatest of them could not be killed but were instead Forsaken, exiled here to Valheim for eternity.
+
+When they tread the earth, the lesser creatures jump like crumbs on a drumskin. You will know them when you see them.
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:13:33: Spawned Seagal x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:13:58: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:13:58: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:13:58: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:14:37: Spawned Greydwarf x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:14:58: Spawned Neck x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:14:58: Spawned Neck x 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:14:58: Force generaeting hmap (320.0, 0.0, 256.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:15:41: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:15:41: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:15:41: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:16:30: Done fading color
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:16:56: Player 2405578914 wants to pickup LeatherScraps(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:16:56: Player 2405578914 wants to pickup LeatherScraps(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:16:56:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:17:01: Force generaeting hmap (64.0, 0.0, -128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:17:10: Player 2405578914 wants to pickup TrophyBoar(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:17:10: Player 2405578914 wants to pickup RawMeat(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:18:21: Force generaeting hmap (320.0, 0.0, 192.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:18:21: Force generaeting hmap (320.0, 0.0, 256.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:19:35: Force generaeting hmap (320.0, 0.0, 192.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:19:35: Force generaeting hmap (320.0, 0.0, 256.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:19:53: Stoped music meadows at 1641503
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:20:06: Done fading color
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:20:25: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:20:59: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:20:59: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:20:59: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:00: Force generaeting hmap (64.0, 0.0, -128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:02: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:02: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:02: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:22: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:22: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:22: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:28: Stoped music home at 282220
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:34: Resumed music home at 282220
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:35: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:35: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:35: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:35: Stoped music home at 340158
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:50: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:50: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:21:50: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:22:02: Force generaeting hmap (64.0, 0.0, -128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:22:02: Force generaeting hmap (128.0, 0.0, -128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:22:15: Force generaeting hmap (64.0, 0.0, -128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:22:15: Force generaeting hmap (128.0, 0.0, -128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1845 unused Assets to reduce memory usage. Loaded Objects now: 1341390.
+Total: 459.566800 ms (FindLiveObjects: 90.846000 ms CreateObjectMapping: 22.449500 ms MarkObjects: 342.646900 ms  DeleteObjects: 3.623800 ms)
+
+02/21/2021 23:23:37: Queue unlock msg:$msg_newstation:$piece_forge
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:23:41: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:23:41: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:23:41: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:23:47: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:23:47: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:23:47: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:23:59: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:00: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:00: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:01: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:01: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:01: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:01: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:01: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:01: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:02: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:02: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:02: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:02: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:02: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:02: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:02: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:02: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:03: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:03: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:03: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:03: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:03: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:03: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:04: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:04: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:04: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:04: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:09: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:22: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:22: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:22: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:45: Resumed music home at 340158
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:45: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:45: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:45: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:56: Left click
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:56: Left click
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:24:57: Left click
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:00: Left click
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:01: Left click
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:03: Player 2233263422 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:03: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:03: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:03: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:07: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:11: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:14: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:26: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:26: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:26: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:33: Stoped music home at 2447037
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:38: Player 2594847732 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:42: Resumed music home at 2447037
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:44: Stoped music home at 2535435
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:48: Resumed music home at 2535435
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:59: Stoped music home at 3026836
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:25:59: Resumed music home at 3026836
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:01: Stoped music home at 3112107
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:02: Resumed music home at 3112107
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:04: Stoped music home at 3201166
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:12: Resumed music home at 3201166
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:16: Stoped music home at 3378756
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:16: Resumed music home at 3378756
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:17: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:17: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:17: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:19: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:21: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:23: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:24: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:27: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:28: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:35: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:38: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:38: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:38: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:39: Player -343557047 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:39:   in use
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:41: Player 545358345 wants to pickup Stone(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:42: Player 2233263422 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:42: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:42: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:42: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:42: Player -343557047 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:42:   in use
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:43: Player -343557047 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:43:   in use
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:45: Player -343557047 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:45: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:49: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:52: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:57: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:26:58: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:01: Player -343557047 wants to open piece_chest_wood(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:05: Stoped music home at 5534884
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:07: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:07: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:07: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:09: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:09: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:09: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:11: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:11: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:11: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:12: Setting selected recipe 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:15: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:18: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:27:20: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Got connection failed callback: 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16:   P2P state, bytes in send queue:1227
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Got connection failed callback: 76561198027757928
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 76561198027757928
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16:   P2P state, bytes in send queue:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Got connection failed callback: 76561198055866657
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 76561198055866657
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16:   P2P state, bytes in send queue:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Got connection failed callback: 76561197973547508
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 76561197973547508
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16:   P2P state, bytes in send queue:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Got connection failed callback: 76561197993568986
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 76561197993568986
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16:   P2P state, bytes in send queue:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo -343557047:4844 owner -343557047
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo -343557047:1 owner -343557047
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo -343557047:4522 owner -343557047
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo -343557047:4843 owner -343557047
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo -343557047:4842 owner -343557047
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 545358345:9454 owner 545358345
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 545358345:1 owner 545358345
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 545358345:6969 owner 545358345
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 545358345:9456 owner 545358345
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 545358345:9450 owner 545358345
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 545358345:9455 owner 545358345
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 545358345:9453 owner 545358345
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 545358345:8880 owner 545358345
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4365 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4363 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4364 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4359 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:1 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4360 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4368 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4358 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4367 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4004 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4369 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4361 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4204 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4366 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:3591 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4348 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4356 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4362 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2405578914:4217 owner 2405578914
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2594847732:2196 owner 2594847732
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2594847732:1 owner 2594847732
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2594847732:4361 owner 2594847732
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2594847732:4362 owner 2594847732
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2594847732:4365 owner 2594847732
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2594847732:4364 owner 2594847732
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2594847732:4360 owner 2594847732
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2594847732:4363 owner 2594847732
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Destroying abandoned non persistent zdo 2594847732:4366 owner 2594847732
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:16: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:17: Destroying abandoned non persistent zdo 941565259:1779 owner 941565259
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:17: Destroying abandoned non persistent zdo 941565259:1783 owner 941565259
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:17: Destroying abandoned non persistent zdo 941565259:1778 owner 941565259
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:17: Destroying abandoned non persistent zdo 941565259:1780 owner 941565259
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:17: Destroying abandoned non persistent zdo 941565259:1 owner 941565259
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:17: Destroying abandoned non persistent zdo 941565259:1782 owner 941565259
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:17: Destroying abandoned non persistent zdo 941565259:1628 owner 941565259
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:17: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:17: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:17: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:17: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:29: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:45: Got session request from 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:48: Got session request from 76561197993568986
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:49: Got handshake from client 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:49: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:49: Server: New peer connected,sending global keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:53: Got handshake from client 76561197993568986
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:53: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:53: Server: New peer connected,sending global keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:59: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:59: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:28:59: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:29:11: Got character ZDOID from Amgar Ragenthor : 1210488474:22
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:29:15: Got character ZDOID from Greta : 1519871348:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:29:20: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:29:20: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:29:20: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:29:57: Got session request from 76561198027757928
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:00: Got handshake from client 76561198027757928
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:01: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:01: Server: New peer connected,sending global keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:01: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:01: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:01: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:17: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:25: Got character ZDOID from Ampark Plaz : 1505866460:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:42: Spawned Greydwarf x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:42: Spawned Greydwarf x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:50: Queue unlock msg:$msg_newmaterial:$item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:50: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:50: Dungeon loaded 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:50: Dungeon load time 26.4421 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:30:59: Stoped music meadows at 4064255
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:31:28: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:31:36: Spawned Boar x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:31:48: Spawned Troll x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:05: Got session request from 76561197973547508
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:11: Got handshake from client 76561197973547508
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:11: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:11: Server: New peer connected,sending global keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:14: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:14: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:14: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2133 unused Assets to reduce memory usage. Loaded Objects now: 1191857.
+Total: 393.270100 ms (FindLiveObjects: 82.713100 ms CreateObjectMapping: 23.390000 ms MarkObjects: 281.198300 ms  DeleteObjects: 5.968200 ms)
+
+02/21/2021 23:32:19: clone 103
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:20: Saved 98145 zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:20: World saved ( 350.5694ms )
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:26: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:26: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:26: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:32:32: Got character ZDOID from Oskari : 4027331204:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:33:27: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:33:27: Dungeon loaded 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:33:27: Dungeon load time 19.9471 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:33:37: Stoped music blackforest at 6962860
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:33:37: Resumed music meadows at 4064255
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:33:54: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:34:34: Player 1519871348 wants to pickup Raspberry(Clone)   im: 2233263422
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:35:04: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:35:04: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:35:04: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:35:08: Queue unlock msg:$msg_newitem:$item_pickaxe_antler
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:35:09: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:35:09: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:35:09: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:35:12: Item is not in this container
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:35:12: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:35:18: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:35:18: Dungeon loaded 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:35:18: Dungeon load time 20.9438 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:36:01: Stoped music meadows at 682148
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:36:01: Resumed music blackforest at 6962860
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:36:21: Spawned Fish1 x 6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:36:46: Queue unlock msg:$msg_newmaterial:$item_tinore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:37:33: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:37:33: Dungeon loaded 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:37:33: Dungeon load time 20.9436 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:05: Spawned Deer x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:05: Spawned Greydwarf x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:05: Right back item PickaxeAntler
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:27: Spawned Fish1 x 5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:59: Got connection failed callback: 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:59: Closing socket 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:59:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:59:   P2P state, bytes in send queue:3171
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:59: Destroying abandoned non persistent zdo 1210488474:22 owner 1210488474
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:59: Destroying abandoned non persistent zdo 1210488474:1443 owner 1210488474
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:59: Destroying abandoned non persistent zdo 1210488474:1444 owner 1210488474
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:59: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:59: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:59: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:38:59: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:00: Got session request from 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:04: Spawned Seagal x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:04: Spawned Greydwarf x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:07: RPC_Disconnect 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:07: Destroying abandoned non persistent zdo 1519871348:1 owner 1519871348
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:07: Destroying abandoned non persistent zdo 1519871348:791 owner 1519871348
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:07: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:07: Closing socket 76561197993568986
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:07:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:07:   P2P state, bytes in send queue:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:07: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:07: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:13: Possible events:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:13: Random event set:army_theelder
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:13: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:13: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:13: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14: RPC_Disconnect 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14: Destroying abandoned non persistent zdo 4027331204:1 owner 4027331204
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14: Destroying abandoned non persistent zdo 4027331204:536 owner 4027331204
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14: Destroying abandoned non persistent zdo 4027331204:537 owner 4027331204
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14: Destroying abandoned non persistent zdo 4027331204:538 owner 4027331204
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14: Destroying abandoned non persistent zdo 4027331204:534 owner 4027331204
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14: Destroying abandoned non persistent zdo 4027331204:535 owner 4027331204
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14: Closing socket 76561197973547508
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14:   P2P state, bytes in send queue:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:14: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:15: Got connection failed callback: 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:15: Closing socket 76561198043806228
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:15:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:15:   P2P state, bytes in send queue:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:15: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:15: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:15: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:15: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:19: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:19: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:19: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:29: Got connection failed callback: 76561198027757928
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:29: Closing socket 76561198027757928
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:29:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:29:   P2P state, bytes in send queue:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:29: Destroying abandoned non persistent zdo 1505866460:1 owner 1505866460
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:29: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:29: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:29: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:29: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:30: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:30: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:30: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:36: Left click
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:38: UI Group status changed MenuRoot = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:39: Game - OnApplicationQuit
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:39: ZNet Shutdown
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:40: clone 106
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:40: Saved 98283 zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:40: World saved ( 326.6442ms )
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:40: Sending disconnect msg
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:40: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:40: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:40: Last socket, unregistering callback
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:40: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:42: Local player destroyed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:42: ZNet OnDestroy
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:42: Net scene destroyed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 23:39:43: Steam manager on destroy
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
